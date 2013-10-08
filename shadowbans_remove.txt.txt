@@ -1,0 +1,3 @@
+# User shadowbans
+    user: [nintenjewfan, loblollyboy, lesbiancocksucker, Murph2TheHall, dukereport, untouchablewolf, craftpro84, james_neck_beard, cptnpaul, butlerraines, travv, cumeaterbob, cassiope, er_wang_dong, _fuzzydunlop, unknownsouljahboy, SWEAR_WORD_SEARCH, yeahbutwhyyousomad, smspro86, Negro_Napoleon, BadGrammarCorrection, slickanus, 36yearold, parkatlanta, ayylmao, tjblackburn81, RichPayFairShareNow, GayMensAsses]
+    action: remove
